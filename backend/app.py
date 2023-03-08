@@ -12,4 +12,4 @@ CORS(app)
 
 @app.route("/")
 def hello():
-    return "Hello, World!"
+    return "jpc362 test successful"
